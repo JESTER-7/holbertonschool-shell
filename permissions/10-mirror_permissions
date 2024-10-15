@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=/root/holbertonschool-shell/permissions/olleh /root/holbertonschool-shell/permissions/hello
+chmod --reference=olleh hello
